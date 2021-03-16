@@ -1,13 +1,4 @@
-server:
-  port: 8181
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/ezuard/spring-cloud-config-store
-          search-paths:
-           - '*service'
+
 
 
 
